@@ -1,18 +1,21 @@
 <template>
   <container-img :url="img">
-    <text-primary>{{ msg }}</text-primary>
-    <text-secundary>{{ msg2 }}</text-secundary>
+    <container-in>
+      <text-primary>{{ msg }}</text-primary>
+      <text-secundary>{{ msg2 }}</text-secundary>
+    </container-in>
   </container-img>
 </template>
 
 <script>
-import { TextPrimary, TextSecundary, Container } from "./Utils";
+import { TextPrimary, TextSecundary, Container, containerIn } from "./Utils";
 export default {
   name: "Content",
   components: {
     "text-primary": TextPrimary,
     "text-secundary": TextSecundary,
-    "container-img": Container
+    "container-img": Container,
+    "container-in": containerIn
   },
   props: {
     msg: String,

@@ -1,6 +1,6 @@
 <template>
 	<footer>
-		<text-footer>Hover It 2009. Todos los derechos reservados. Diseñado y desarrollado por FriendlyBit.</text-footer>
+		<text-footer>SANKYTOK It 2009. Todos los derechos reservados. Diseñado y desarrollado por GlorDev.</text-footer>
 	</footer>
 </template>
 

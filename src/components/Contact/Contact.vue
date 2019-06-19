@@ -5,9 +5,9 @@
     <content-info id="contact-info">
       <h1-contact>Contacto</h1-contact>
       <h4-contact v-if="showMessage">Cambia la forma de hacer las cosas, <span-hab v-on:click="changeVisibility">hablemos.</span-hab></h4-contact>
-      <p-info-contact><i class="fas fa-phone"></i> 01 775 5091</p-info-contact>
-      <p-info-contact><i class="fas fa-location-arrow"></i> hola@hoverit.com</p-info-contact>
-      <p-info-contact><i class="fas fa-flag"></i> Calle Las Fresas 491 - Miraflores - Lima</p-info-contact>
+      <p-info-contact><i class="fas fa-phone"></i> 01 775 xxxx</p-info-contact>
+      <p-info-contact><i class="fas fa-location-arrow"></i> hola@sankytok.com</p-info-contact>
+      <p-info-contact><i class="fas fa-flag"></i> Calle Las Fresas 491 - Pte Piedra - Lima</p-info-contact>
     </content-info>
     <content-info v-if="showForm">
       <h4-contact>¡Déjanos un mensaje!</h4-contact>

@@ -1,10 +1,6 @@
 <template>
   <header>
-    <img
-      src="https://user-images.githubusercontent.com/45070947/58676873-7d3ec000-831f-11e9-88c0-f464c09325f5.png"
-      alt="logo-Hoverit"
-      class="logo"
-    />
+    <h1 class="h1-title">SANKYTOK</h1>
     <a href="#contact-info">Contacto</a>
   </header>
 </template>
@@ -22,9 +18,10 @@ header {
   width: 100%;
 }
 
-.logo {
-  margin: 30px 0 0 235px;
-  width: 175px;
+.h1-title{
+  display: inline-block;
+  padding: 30px;
+  margin-left: 226px;
 }
 
 a {

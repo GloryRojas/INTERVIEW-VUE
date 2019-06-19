@@ -2,9 +2,9 @@
   <cont-produccion>
     <h1-gray>{{ msg }}</h1-gray>
     <parrafo>
-      Nuevas aplicaciones al contenido multimedia por medio de drones. Monitoreo
-      e inspecciones de infraestructuras, promoción de servicios, registro de
-      eventos, producciones personales.
+      Nuevas aplicaciones a las frutas tradicionales. Producción
+      y distribución de productos, promoción de innovación, 
+      producciones personalizadas.
     </parrafo>
     <block-opcion>
       <opcion
