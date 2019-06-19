@@ -2,24 +2,24 @@
   <div id="app">
     <Header />
     <Content
-      msg="Inmobiliaria"
-      msg2="vive la altura"
-      img="https://user-images.githubusercontent.com/45070947/58738765-c862dc80-83cc-11e9-9831-510ee1b611de.jpg"
+      msg="Natural"
+      msg2="vive la experiencia"
+      img="https://image.freepik.com/foto-gratis/campo-fresas_1203-7581.jpg"
     />
     <Content
-      msg="Construcción"
-      msg2="Tenlo todo bajo control"
-      img="https://user-images.githubusercontent.com/45070947/58739853-41186780-83d2-11e9-95c0-574032ee5894.jpg"
+      msg="Jugos"
+      msg2="prueba todos los sabores"
+      img="https://sonaesierracms-v2.cdnpservers.net/wp-content/uploads/sites/28/2018/04/zumos-de-frutas-naturales.jpg"
     />
     <Content
-      msg="Eventos"
-      msg2="Revive experiencias"
-      img="https://c.pxhere.com/photos/4f/4c/festival_fun_fair_lights_fun_joy_evening_travel_tourism-799662.jpg!d"
+      msg="Mermeladas"
+      msg2="Revive aromas"
+      img="http://wemapu.cl/wp/wp-content/uploads/2016/06/008-Mermeladas.jpg"
     />
     <Content
-      msg="Minería"
-      msg2="Visualiza el éxito"
-      img="https://user-images.githubusercontent.com/45070947/58739814-f696eb00-83d1-11e9-87db-aecf2ea7b48f.jpg"
+      msg="Pulpas"
+      msg2="Insumos de calidad"
+      img="http://www.lonatural.com.mx/wp-content/uploads/2015/11/fondo-pulpa.jpg"
     />
     <Clients />
     <Production msg="Producción" />
