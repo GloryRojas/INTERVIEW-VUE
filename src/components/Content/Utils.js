@@ -2,10 +2,14 @@ import styled from "vue-styled-components";
 
 export const TextPrimary = styled.h2`
   padding-top: 20%;
+
+  @media (max-width: 1024px) {
+    padding-top: 60%;
+  }
 `;
 
 export const TextSecundary = styled.h4`
-  padding: 10px 0 24.6% 0;
+  padding: 10px 0 0 0;
   text-transform: uppercase;
 `;
 

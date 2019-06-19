@@ -2,7 +2,7 @@
   "name": "real-word-vue",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://gloryrojas.github.io/project-vue/",
+  "homepage": "https://github.com/GloryRojas/project-vue",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",

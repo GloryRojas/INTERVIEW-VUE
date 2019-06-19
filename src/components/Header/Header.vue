@@ -32,4 +32,16 @@ a {
   text-decoration: none;
   font-weight: 100;
 }
+
+@media only screen and (max-width: 768px){
+  .h1-title{
+  display: inline-block;
+  margin-left: 0%;
+  padding: 30px 0;
+  }
+  a{
+    display: none;
+  }
+}
+
 </style>

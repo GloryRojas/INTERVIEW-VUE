@@ -5,6 +5,13 @@ export const ContentInfo = styled.div`
   width: 40%;
   float: left;
   margin: 15% 5% 0 5%;
+  box-sizing: border-box;
+
+  @media (max-width: 1024px) {
+    width: 90%;
+    margin: 15% 0 0% 5%;
+    box-sizing: border-box;
+  }
 `;
 
 export const h1Contact = styled.h1`
@@ -22,18 +29,23 @@ export const h4Contact = styled.h4`
 export const FormContact = styled.form`
   width: 100%;
   margin: 20px 0;
+  box-sizing: border-box;
 `;
 
 export const InputContact = styled.input`
   background: none;
   padding: 18px 0 10px;
   text-align: left;
-  width: 100%;
+  width: 90%;
   border: none;
   border-bottom: 2px inset gray;
   font-size: 16px;
   margin-top: 20px;
   outline: 0px;
+  box-sizing: border-box;
+  @media (max-width: 1024px) {
+    width: 70%;
+  }
 `;
 
 export const ButtonContact = styled.button`

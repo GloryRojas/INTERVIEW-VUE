@@ -39,6 +39,10 @@ export const BlockOpcion = styled.button`
   border: none;
   background-color: #ffffff;
   cursor: pointer;
+
+  @media (max-width: 1024px) {
+    width: 40%;
+  }
 `;
 
 export const opcion = styled.img`

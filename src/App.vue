@@ -14,7 +14,7 @@
     <Content
       msg="Mermeladas"
       msg2="Revive aromas"
-      img="http://wemapu.cl/wp/wp-content/uploads/2016/06/008-Mermeladas.jpg"
+      img="https://alimentosdelsur.com/wp-content/uploads/2016/02/mermeladas.jpg"
     />
     <Content
       msg="Pulpas"
